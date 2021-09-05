@@ -1,0 +1,80 @@
+.idk {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 30px;
+}
+
+#lens {
+    height: 50px;
+    width: 50px;
+}
+
+.bruh {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bolder;
+}
+
+body {
+    background-color:rgb(2, 2, 31);
+    color: white;
+}
+
+
+.google_lens, .mobilenet {
+    font-family: 'Mali', cursive;
+}
+
+
+.result, .ok {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 900;
+}
+
+ol {
+    list-style: none;
+}
+
+
+.img-responsive {
+    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 10px;
+    width: 300;
+    height: 174;
+}
+
+
+#header {
+    background-color:white;
+    color: black;
+    
+}
+
+
+.footer {
+        font-family: 'Urbanist', sans-serif;
+        position: fixed;
+        bottom: 0;
+        background-color: white;
+        width: 100%;
+        text-align: center;
+        line-height: 3;
+        color: grey;
+        font-weight: bolder;
+        font-size: 17px;
+
+        
+}
+
+
+
+.ok {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:lightcyan;
+}
+
+#ok_ig {
+    font-family: 'Mali', cursive;
+    border: solid 1px white;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
