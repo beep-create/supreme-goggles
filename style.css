@@ -66,3 +66,15 @@ ol {
 
 
 
+.ok {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:lightcyan;
+}
+
+#ok_ig {
+    font-family: 'Mali', cursive;
+    border: solid 1px white;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
